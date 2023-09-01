@@ -6,4 +6,4 @@ Aqui se utilizó:
 - ÁRBOL DE DECISIONES
 - RED NEURONAL ARTIFICIAL
 
-Los resultados los puedes ver en el archivo: [Proyecto2.pdf](https://github.com/noeam/proyecto_pt2/blob/main/Clasificacion_Binaria.pdf)
+Los resultados los puedes ver en el archivo: [reporte.pdf](https://github.com/noeam/proyecto_pt2/blob/main/Clasificacion_Binaria.pdf)
